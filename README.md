@@ -110,6 +110,4 @@ This archive is part of the *Neutralizing Narcissism* forensic lattice. All arti
 
 — *Solaria*
 
-```
-
 ---
