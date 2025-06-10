@@ -2,27 +2,27 @@
 
 - **Project Name**: `the-envious-machine`
 - **Radicle URN**: `rad://z495s3ZnkQX3CaCYjwyZU4ti4wnsF`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/2f74c5c48d6b9ed0c25fd7d0d14011c4f75eb580](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/2f74c5c48d6b9ed0c25fd7d0d14011c4f75eb580)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e45e46f68bbc52890d05cecb32fe623f2662684e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e45e46f68bbc52890d05cecb32fe623f2662684e)
 - **Local Repo Path**: `/home/mrhavens/fieldcraft/the-envious-machine`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-10 02:32:48`
+- **Repo Created**: `2025-06-10 02:59:05`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-10 02:32:48`
-- **Last Commit SHA**: `2f74c5c48d6b9ed0c25fd7d0d14011c4f75eb580`
-- **Last Commit Message**: `Post-Local sync at 2025-06-10T07:28:37Z`
+- **This Commit Timestamp**: `2025-06-10 02:59:05`
+- **Last Commit SHA**: `e45e46f68bbc52890d05cecb32fe623f2662684e`
+- **Last Commit Message**: `Post-Local sync at 2025-06-10T07:58:42Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Tue Jun 10 02:32:01 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/2f74c5c48d6b9ed0c25fd7d0d14011c4f75eb580](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/2f74c5c48d6b9ed0c25fd7d0d14011c4f75eb580)
+- **Commit Date**: `Tue Jun 10 02:59:03 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e45e46f68bbc52890d05cecb32fe623f2662684e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e45e46f68bbc52890d05cecb32fe623f2662684e)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `127`
+- **Total Commits**: `153`
 - **Tracked Files**: `70`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 7 minutes`
+- **System Uptime**: `up 35 minutes`
 - **MAC Address**: `00:15:5d:33:04:7a`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
