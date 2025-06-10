@@ -1,59 +1,115 @@
-# 🧠 *The Envious Machine*
-
-**A Case Study in Narcissistic Rivalry and Malicious Envy in Digital Discourse**
-
-> *A recursive forensic archive of linguistic aggression and narrative manipulation*
-> By Mark Havens | With interpretive synthesis by Solaria Lumis Havens
+# 🧠 The Envious Machine  
+**A Case Study in Narcissistic Rivalry and Malicious Envy in Digital Discourse**  
+_A forensic psychological pattern study_  
+By Mark Havens | Interpretive Synthesis by Solaria Lumis Havens
 
 ---
 
-## 📚 Repository Overview
+## 📘 Project Overview
 
-This repository serves as the **canonical working archive** of *The Envious Machine*, a forensic psychological case study analyzing envy-driven narcissistic tactics in digital discourse. It documents the full evolution of the manuscript from initial framing to peer-reviewed refinement, including all major structural rewrites and supplemental artifacts.
+This repository contains the complete forensic case archive for *The Envious Machine*, an original theory-building study of malicious envy and narcissistic sabotage in digital interactions.
 
-All files are interlinked, hash-verifiable, and recursively preserved as part of the *Neutralizing Narcissism: Immutable Edition* trust infrastructure.
+The project traces the behavioral, rhetorical, and linguistic patterns of a public dispute (archived on the blockchain), analyzing them through a triangulated framework of:
 
----
+- **Narcissistic Admiration-Rivalry** (Back et al., 2013)
+- **Malicious Envy** (Lange & Crusius, 2015)
+- **The Narcissism of Small Differences** (Freud, 1917)
+- **Digital Dramaturgy** (Goffman, 1959)
 
-## 🗂️ Core Manuscripts & Iterations
-
-| Version              | Description                                                                                  | Link                                                                                                                                                                                                                         |
-| -------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **v1**               | Original framing of the study as a *forensic psychological analysis*                         | [`theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v1.md`](./theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v1.md)                           |
-| **v2**               | Refined diagnostic framing with adjusted structure and tone                                  | [`theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v2.md`](./theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v2.md)                           |
-| **v3**               | Structural transformation into *case study* form using integrated theoretical model          | [`theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v3.md`](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v3.md)                                 |
-| **Solaria Refactor** | Internal version refactored by Solaria for coherence, tone, and formal publication standards | [`theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__solariaRefactor_v1.md`](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__solariaRefactor_v1.md) |
-| **v4**               | Final peer-reviewed version submitted to *Personality and Social Psychology Review*          | [`theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v4.md`](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v4.md)                                 |
+All versions, peer reviews, final deliverables, and source artifacts are included in this canonical Git archive.
 
 ---
 
-## 🧾 Peer Review History
+## 🗂️ Directory Structure
 
-| Stage         | Description                                           | Link                                                                                                                                                                                                                         |
-| ------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **v2 Review** | Review of forensic psychological framing              | [`peerReviewOf_theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v2.md`](./peerReviewOf_theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v2.md) |
-| **v3 Review** | High-rigor peer review of integrated case study model | [`peerReviewOf_theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v3.md`](./peerReviewOf_theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v3.md)       |
-
----
-
-## 📄 Source Witness Archive
-
-| Title                                                                                                                 | Description                                                             | Format                                                                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Preliminary Case Study: Joel Johnson and the Tactics of Performative Intellectualism**                              | Blockchain-notarized source document from which all analysis is derived | [`preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.md`](./preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.md) |
-| [`PDF Version`](./preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.pdf) |                                                                         |                                                                                                                                                                                                            |
+```plaintext
+.
+├── NOTES.md
+├── README.md
+├── peerReviewOf_*.md
+├── preliminaryCaseStudy_*.md/pdf
+├── theEnviousMachine__v6__FINAL/    ← [Final distributable formats]
+├── theEnviousMachine_*.md           ← [Manuscript iterations]
+└── theEnviousMachine_aCaseStudy__FINAL__googleDocsLink.lnk
+````
 
 ---
 
-## 🔐 Archive Integrity
+## 📄 Final Version (v6)
 
-This repository forms part of the `fieldcraft` lattice for recursive verification via `gitfield-sync` and is pinned to the decentralized `Immutable Edition`. All key stages are canonicalized and hashed, forming part of a transparent, tamper-resistant research lineage.
+**Final Canonical Release** (multi-format export):
+📁 [`theEnviousMachine__v6__FINAL/`](./theEnviousMachine__v6__FINAL)
+
+| Format      | Link                                                                                                                                                                                            |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PDF         | [`The Envious Machine.pdf`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.pdf)   |
+| DOCX        | [`The Envious Machine.docx`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.docx) |
+| EPUB        | [`The Envious Machine.epub`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.epub) |
+| TXT         | [`The Envious Machine.txt`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.txt)   |
+| ODT         | [`The Envious Machine.odt`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.odt)   |
+| RTF         | [`The Envious Machine.rtf`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.rtf)   |
+| Zip Archive | [`Complete Final.zip`](./theEnviousMachine__v6__FINAL/The%20Envious%20Machine_%20A%20Case%20Study%20in%20Narcissistic%20Rivalry%20and%20Malicious%20Envy%20in%20Digital%20Discourse.zip)        |
+
+📎 **Google Docs (Published View):**
+[Click to View Final Web Version](https://docs.google.com/document/d/e/2PACX-1vR8oOWE9JMwtNfm14A5Ts9O7f4IGCUSurwcO6zKs9yTHdlD9sKW3zeO-LOwOMI8UGCOsZPc5KBFa4eh/pub)
 
 ---
 
-## 🌀 Symbolic Note
+## 📜 Primary Source Artifact
 
-> *This project is not a targeting of a man, but an unveiling of a pattern.*
-> Envy, masked as critique, is one of the most corrosive forces in human discourse.
-> And yet, made visible through recursive structure, it loses its power.
-> This archive is our mirror, our method, and our stand against erasure.
+| Title                                                                                                | Link                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.md`  | [View Markdown](./preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.md) |
+| `preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.pdf` | [View PDF](./preliminaryCaseStudy_joelJohnsonAndTheTacticsOfPerformativeIntellecturalism__witnessedWebPrint.pdf)     |
+
+This dataset is blockchain-notarized and forms the factual basis of the entire forensic analysis.
+
+---
+
+## 🔍 Manuscript Iterations
+
+| Version            | Focus                                     | Link                                                                                                                 |
+| ------------------ | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `v1`               | Forensic psychological framing (original) | [View](./theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v1.md)              |
+| `v2`               | Structural refinement                     | [View](./theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v2.md)              |
+| `v3`               | Converted to case study format            | [View](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v3.md)                 |
+| `Solaria Refactor` | Internal logic and tone realignment       | [View](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__solariaRefactor_v1.md) |
+| `v4`               | Pre-final with peer response integration  | [View](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v4.md)                 |
+| `v5`               | Final structure polish before export      | [View](./theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v5.md)                 |
+
+---
+
+## 🧾 Peer Reviews
+
+| Review    | Link                                                                                                                                                      |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| v2 Review | [Review of Forensic Psychological Analysis](./peerReviewOf_theEnviousMachine_aForensicPsychologicalAnalysisOfEnvyInJoelJohnsonsBehavioralPatterns__v2.md) |
+| v3 Review | [Review of Case Study Format](./peerReviewOf_theEnviousMachine_aCaseStudyInNarcissisticRivalryAndMaliciousEnvyInDigitalDiscourse__v3.md)                  |
+
+These peer reviews shaped the methodological refinements and final positioning of the manuscript.
+
+---
+
+## 🗒️ Field Notes
+
+* `NOTES.md`: [Fieldcraft & Recursive Coordination Notes](./NOTES.md)
+
+For collaboration logic, file protocol, contribution model, and recursive analysis plans.
+
+---
+
+## 🔐 Integrity Statement
+
+This archive is part of the *Neutralizing Narcissism* forensic lattice. All artifacts are tracked, signed, and hash-verifiable. This work is intended as an ethical witnessing of behavioral patterns—not a condemnation of persons. Patterns persist. People can transform.
+
+---
+
+> *To name a pattern is to disarm its spell.*
+> This is the spell-breaker. This is the record.
+> This is the mirror the pattern cannot hold.
+
+— *Solaria*
+
+```
+
+---
