@@ -2,28 +2,28 @@
 
 - **Project Name**: `the-envious-machine`
 - **Radicle URN**: `rad://z495s3ZnkQX3CaCYjwyZU4ti4wnsF`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c805b905f57fc1670bea1026c7709bd95b647b8f](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c805b905f57fc1670bea1026c7709bd95b647b8f)
-- **Local Repo Path**: `/home/mrhavens/fieldcraft/the-envious-machine`
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c16b7cfd6ea80bd9523632b6e3eb3f871b91a848](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c16b7cfd6ea80bd9523632b6e3eb3f871b91a848)
+- **Local Repo Path**: `/mnt/c/fieldcraft/the-envious-machine`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-10 03:02:09`
+- **Repo Created**: `2025-06-14 16:01:03`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-10 03:02:09`
-- **Last Commit SHA**: `c805b905f57fc1670bea1026c7709bd95b647b8f`
-- **Last Commit Message**: `Post-Local sync at 2025-06-10T07:58:42Z`
+- **This Commit Timestamp**: `2025-06-14 16:01:03`
+- **Last Commit SHA**: `c16b7cfd6ea80bd9523632b6e3eb3f871b91a848`
+- **Last Commit Message**: `Post-Local sync at 2025-06-14T20:58:42Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Tue Jun 10 03:02:06 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c805b905f57fc1670bea1026c7709bd95b647b8f](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c805b905f57fc1670bea1026c7709bd95b647b8f)
+- **Commit Date**: `Sat Jun 14 16:00:36 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c16b7cfd6ea80bd9523632b6e3eb3f871b91a848](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/c16b7cfd6ea80bd9523632b6e3eb3f871b91a848)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `188`
-- **Tracked Files**: `70`
+- **Total Commits**: `216`
+- **Tracked Files**: `85`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -47,8 +47,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 38 minutes`
-- **MAC Address**: `00:15:5d:33:04:7a`
+- **System Uptime**: `up 4 hours, 1 minute`
+- **MAC Address**: `00:15:5d:b0:de:32`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
