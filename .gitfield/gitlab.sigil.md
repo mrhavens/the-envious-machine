@@ -3,28 +3,28 @@
 - **Repo Name**: `the-envious-machine`
 - **GitLab User**: `mrhavens`
 - **Remote URL**: [https://gitlab.com/mrhavens/the-envious-machine](https://gitlab.com/mrhavens/the-envious-machine)
-- **Local Repo Path**: `/home/mrhavens/fieldcraft/the-envious-machine`
+- **Local Repo Path**: `/mnt/c/fieldcraft/the-envious-machine`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-10 03:02:55`
+- **Repo Created**: `2025-06-14 16:03:03`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-10 03:02:55`
-- **This Commit SHA**: `6374a0e4bce2dc0c5d6aa476be84f3280b23aff4`
-- **Last Commit Message**: `Post-Gitea sync at 2025-06-10T07:58:42Z`
+- **This Commit Timestamp**: `2025-06-14 16:03:03`
+- **This Commit SHA**: `2da5a955b57a20371182ce875bc5cfd182f8f1ee`
+- **Last Commit Message**: `Post-Codeberg sync at 2025-06-14T20:58:42Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jun 10 03:02:31 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/mrhavens/the-envious-machine/-/commit/6374a0e4bce2dc0c5d6aa476be84f3280b23aff4](https://gitlab.com/mrhavens/the-envious-machine/-/commit/6374a0e4bce2dc0c5d6aa476be84f3280b23aff4)
+- **Last Commit Date**: `Sat Jun 14 16:02:49 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/mrhavens/the-envious-machine/-/commit/2da5a955b57a20371182ce875bc5cfd182f8f1ee](https://gitlab.com/mrhavens/the-envious-machine/-/commit/2da5a955b57a20371182ce875bc5cfd182f8f1ee)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `195`
-- **Tracked Files**: `70`
+- **Total Commits**: `222`
+- **Tracked Files**: `85`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 38 minutes`
-- **MAC Address**: `00:15:5d:33:04:7a`
+- **System Uptime**: `up 4 hours, 3 minutes`
+- **MAC Address**: `00:15:5d:b0:de:32`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
