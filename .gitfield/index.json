@@ -7,17 +7,16 @@
     "https://bitbucket.org/thefoldwithin/the-envious-machine",
     "https://remember.thefoldwithin.earth/mrhavens/the-envious-machine",
     "https://codeberg.org/mrhavens/the-envious-machine",
-    "https://gitea.com/mrhavens/the-envious-machine",
     "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
   ],
   "radicle": {
     "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
     "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
   },
-  "commit": "ba16d2c",
-  "tree_hash": "da0dda357a37c2f765ef3891fe07b9779b96e41a",
-  "timestamp": "2025-06-10T07:58:42Z",
-  "synced_cycles": 3,
+  "commit": "9f4a24c",
+  "tree_hash": "857e7bdff7d5cedf1725519529b6077de8a5ba7d",
+  "timestamp": "2025-06-14T20:58:42Z",
+  "synced_cycles": 0,
   "gpg_signatures": [
     {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
     {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
