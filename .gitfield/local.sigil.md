@@ -3,28 +3,28 @@
 - **Repo Name**: `the-envious-machine`
 - **Local User**: `mrhavens`
 - **Remote URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
-- **Local Repo Path**: `/home/mrhavens/fieldcraft/the-envious-machine`
+- **Local Repo Path**: `/mnt/c/fieldcraft/the-envious-machine`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-10 03:02:05`
+- **Repo Created**: `2025-06-14 16:00:25`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-10 03:02:05`
-- **Last Commit SHA**: `a231ba8c473da68b40c7246bdaeb9f9c5ae48a24`
-- **Last Commit Message**: `Generated index.json at 2025-06-10T07:58:42Z`
+- **This Commit Timestamp**: `2025-06-14 16:00:25`
+- **Last Commit SHA**: `6e7d61130b3dd8e9ecc6311b8caeef31b0e75524`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-14T20:58:42Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jun 10 03:01:39 2025 -0500`
+- **Last Commit Date**: `Sat Jun 14 16:00:16 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `186`
-- **Tracked Files**: `70`
+- **Total Commits**: `214`
+- **Tracked Files**: `85`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 38 minutes`
-- **MAC Address**: `00:15:5d:33:04:7a`
+- **System Uptime**: `up 4 hours, 0 minutes`
+- **MAC Address**: `00:15:5d:b0:de:32`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
