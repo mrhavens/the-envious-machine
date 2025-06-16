@@ -3,36 +3,36 @@
 - **Repo Name**: `the-envious-machine`
 - **Local User**: `mrhavens`
 - **Remote URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
-- **Local Repo Path**: `/mnt/c/fieldcraft/the-envious-machine`
+- **Local Repo Path**: `/mnt/h/fieldcraft/joel-johnson/the-envious/the-envious-machine`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-14 16:09:17`
+- **Repo Created**: `2025-06-15 20:25:03`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-14 16:09:17`
-- **Last Commit SHA**: `0e5c1fb2040591bdec636fdc215a163988f75311`
-- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-14T20:58:42Z`
+- **This Commit Timestamp**: `2025-06-15 20:25:03`
+- **Last Commit SHA**: `27d759fd5dbab1c68ce9ba478ac492f1d3d9be85`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-16T01:24:56Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Sat Jun 14 16:09:08 2025 -0500`
+- **Last Commit Date**: `Sun Jun 15 20:25:03 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `247`
+- **Total Commits**: `260`
 - **Tracked Files**: `90`
-- **Uncommitted Changes**: `Yes`
+- **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
 ---
 
 ## 🧭 Environment
 
-- **Host Machine**: `DESKTOP-E5SGI58`
+- **Host Machine**: `samson`
 - **Current User**: `mrhavens`
 - **Time Zone**: `CDT`
 - **Script Version**: `v1.0`
@@ -42,17 +42,17 @@
 ## 🧬 Hardware & OS Fingerprint
 
 - **OS Name**: `Linux`
-- **OS Version**: `Ubuntu 24.04.2 LTS`
-- **Kernel Version**: `5.15.167.4-microsoft-standard-WSL2`
+- **OS Version**: `Ubuntu 22.04.5 LTS`
+- **Kernel Version**: `6.6.87.1-microsoft-standard-WSL2`
 - **Architecture**: `x86_64`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 4 hours, 9 minutes`
-- **MAC Address**: `00:15:5d:b0:de:32`
-- **Local IP**: `172.18.207.124`
-- **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
-- **Total RAM (GB)**: `3.63`
+- **System Uptime**: `up 9 hours, 50 minutes`
+- **MAC Address**: `00:15:5d:44:48:46`
+- **Local IP**: `172.28.107.95`
+- **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
+- **Total RAM (GB)**: `23.44`
 
 ---
 
