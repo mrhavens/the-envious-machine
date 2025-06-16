@@ -3,28 +3,28 @@
 - **Repo Name**: `the-envious-machine`
 - **GitHub User**: `mrhavens`
 - **Remote URL**: [https://github.com/mrhavens/the-envious-machine](https://github.com/mrhavens/the-envious-machine)
-- **Local Repo Path**: `/home/mrhavens/fieldcraft/the-envious-machine`
+- **Local Repo Path**: `/mnt/h/fieldcraft/joel-johnson/the-envious/the-envious-machine`
 - **Remote Label**: `github`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-06-10 03:03:35`
+- **This Commit Date**: `2025-06-15 20:27:40`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-10 03:03:35`
-- **Last Commit SHA**: `11b24a64f677353c699af405431e2e3da94df8af`
-- **Last Commit Message**: `Post-Bitbucket sync at 2025-06-10T07:58:42Z`
+- **This Commit Timestamp**: `2025-06-15 20:27:40`
+- **Last Commit SHA**: `727ce72f2ba30bccb5672e45dbaec24c2115aeaa`
+- **Last Commit Message**: `Post-Bitbucket sync at 2025-06-16T01:24:56Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jun 10 03:03:20 2025 -0500`
-- **This Commit URL**: [https://github.com/mrhavens/the-envious-machine/commit/11b24a64f677353c699af405431e2e3da94df8af](https://github.com/mrhavens/the-envious-machine/commit/11b24a64f677353c699af405431e2e3da94df8af)
+- **Last Commit Date**: `Sun Jun 15 20:27:32 2025 -0500`
+- **This Commit URL**: [https://github.com/mrhavens/the-envious-machine/commit/727ce72f2ba30bccb5672e45dbaec24c2115aeaa](https://github.com/mrhavens/the-envious-machine/commit/727ce72f2ba30bccb5672e45dbaec24c2115aeaa)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `199`
-- **Tracked Files**: `70`
+- **Total Commits**: `288`
+- **Tracked Files**: `92`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -32,7 +32,7 @@
 
 ## 🧭 Environment
 
-- **Host Machine**: `DESKTOP-E5SGI58`
+- **Host Machine**: `samson`
 - **Current User**: `mrhavens`
 - **Time Zone**: `CDT`
 - **Script Version**: `v1.0`
@@ -42,17 +42,17 @@
 ## 🧬 Hardware & OS Fingerprint
 
 - **OS Name**: `Linux`
-- **OS Version**: `Ubuntu 24.04.2 LTS`
-- **Kernel Version**: `5.15.167.4-microsoft-standard-WSL2`
+- **OS Version**: `Ubuntu 22.04.5 LTS`
+- **Kernel Version**: `6.6.87.1-microsoft-standard-WSL2`
 - **Architecture**: `x86_64`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 39 minutes`
-- **MAC Address**: `00:15:5d:33:04:7a`
-- **Local IP**: `172.18.207.124`
-- **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
-- **Total RAM (GB)**: `3.63`
+- **System Uptime**: `up 9 hours, 53 minutes`
+- **MAC Address**: `00:15:5d:44:48:46`
+- **Local IP**: `172.28.107.95`
+- **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
+- **Total RAM (GB)**: `23.44`
 
 ---
 
