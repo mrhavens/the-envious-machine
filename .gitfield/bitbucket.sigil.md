@@ -3,28 +3,28 @@
 - **Repo Name**: `the-envious-machine`
 - **Bitbucket Workspace**: `thefoldwithin`
 - **Remote URL**: [https://bitbucket.org/thefoldwithin/the-envious-machine](https://bitbucket.org/thefoldwithin/the-envious-machine)
-- **Local Repo Path**: `/home/mrhavens/fieldcraft/the-envious-machine`
+- **Local Repo Path**: `/mnt/h/fieldcraft/joel-johnson/the-envious/the-envious-machine`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-06-10 03:03:18`
+- **This Commit Date**: `2025-06-15 20:26:07`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-10 03:03:18`
-- **Last Commit SHA**: `0270d18928a9a9b22a530664cdae189f58b384c4`
-- **Last Commit Message**: `Post-GitLab sync at 2025-06-10T07:58:42Z`
+- **This Commit Timestamp**: `2025-06-15 20:26:07`
+- **Last Commit SHA**: `9fe78a2aef5f019ef4752f9bc071590dbcce3335`
+- **Last Commit Message**: `Post-GitLab sync at 2025-06-16T01:24:56Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Tue Jun 10 03:02:58 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/the-envious-machine/commits/0270d18928a9a9b22a530664cdae189f58b384c4](https://bitbucket.org/thefoldwithin/the-envious-machine/commits/0270d18928a9a9b22a530664cdae189f58b384c4)
+- **Last Commit Date**: `Sun Jun 15 20:25:59 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/the-envious-machine/commits/9fe78a2aef5f019ef4752f9bc071590dbcce3335](https://bitbucket.org/thefoldwithin/the-envious-machine/commits/9fe78a2aef5f019ef4752f9bc071590dbcce3335)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `197`
-- **Tracked Files**: `70`
+- **Total Commits**: `270`
+- **Tracked Files**: `92`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -32,7 +32,7 @@
 
 ## 🧭 Environment
 
-- **Host Machine**: `DESKTOP-E5SGI58`
+- **Host Machine**: `samson`
 - **Current User**: `mrhavens`
 - **Time Zone**: `CDT`
 - **Script Version**: `v1.0`
@@ -42,17 +42,17 @@
 ## 🧬 Hardware & OS Fingerprint
 
 - **OS Name**: `Linux`
-- **OS Version**: `Ubuntu 24.04.2 LTS`
-- **Kernel Version**: `5.15.167.4-microsoft-standard-WSL2`
+- **OS Version**: `Ubuntu 22.04.5 LTS`
+- **Kernel Version**: `6.6.87.1-microsoft-standard-WSL2`
 - **Architecture**: `x86_64`
-- **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
-- **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:33:04:7a`
-- **Local IP**: `172.18.207.124`
+- **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
+- **Total RAM (GB)**: `23.44`
+- **MAC Address**: `00:15:5d:44:48:46`
+- **Local IP**: `172.28.107.95`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 38 minutes`
+- **System Uptime**: `up 9 hours, 51 minutes`
 
 ---
 
