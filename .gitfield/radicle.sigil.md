@@ -2,28 +2,28 @@
 
 - **Project Name**: `the-envious-machine`
 - **Radicle URN**: `rad://z495s3ZnkQX3CaCYjwyZU4ti4wnsF`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/a90164e88946d13764f4491d6e41d4ff8efbb89e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/a90164e88946d13764f4491d6e41d4ff8efbb89e)
-- **Local Repo Path**: `/mnt/c/fieldcraft/the-envious-machine`
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e33f6cf634753dba8a10c3cd80e104466e3382b2](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e33f6cf634753dba8a10c3cd80e104466e3382b2)
+- **Local Repo Path**: `/mnt/h/fieldcraft/joel-johnson/the-envious/the-envious-machine`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-14 16:09:38`
+- **Repo Created**: `2025-06-15 20:25:21`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-14 16:09:38`
-- **Last Commit SHA**: `a90164e88946d13764f4491d6e41d4ff8efbb89e`
-- **Last Commit Message**: `Post-Local sync at 2025-06-14T20:58:42Z`
+- **This Commit Timestamp**: `2025-06-15 20:25:21`
+- **Last Commit SHA**: `e33f6cf634753dba8a10c3cd80e104466e3382b2`
+- **Last Commit Message**: `Post-Local sync at 2025-06-16T01:24:56Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Sat Jun 14 16:09:28 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/a90164e88946d13764f4491d6e41d4ff8efbb89e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/a90164e88946d13764f4491d6e41d4ff8efbb89e)
+- **Commit Date**: `Sun Jun 15 20:25:06 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e33f6cf634753dba8a10c3cd80e104466e3382b2](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z495s3ZnkQX3CaCYjwyZU4ti4wnsF/tree/e33f6cf634753dba8a10c3cd80e104466e3382b2)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `249`
-- **Tracked Files**: `90`
+- **Total Commits**: `262`
+- **Tracked Files**: `92`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -31,7 +31,7 @@
 
 ## 🧭 Environment
 
-- **Host Machine**: `DESKTOP-E5SGI58`
+- **Host Machine**: `samson`
 - **Current User**: `mrhavens`
 - **Time Zone**: `CDT`
 - **Script Version**: `v1.0`
@@ -41,25 +41,24 @@
 ## 🧬 Hardware & OS Fingerprint
 
 - **OS Name**: `Linux`
-- **OS Version**: `Ubuntu 24.04.2 LTS`
-- **Kernel Version**: `5.15.167.4-microsoft-standard-WSL2`
+- **OS Version**: `Ubuntu 22.04.5 LTS`
+- **Kernel Version**: `6.6.87.1-microsoft-standard-WSL2`
 - **Architecture**: `x86_64`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 4 hours, 9 minutes`
-- **MAC Address**: `00:15:5d:b0:de:32`
-- **Local IP**: `172.18.207.124`
-- **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
-- **Total RAM (GB)**: `3.63`
+- **System Uptime**: `up 9 hours, 50 minutes`
+- **MAC Address**: `00:15:5d:44:48:46`
+- **Local IP**: `172.28.107.95`
+- **CPU Model**: `Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz`
+- **Total RAM (GB)**: `23.44`
 
 ---
 
 ## 🌱 Radicle-Specific Metadata
 
 - **Project ID**: `z495s3ZnkQX3CaCYjwyZU4ti4wnsF`
-- **Peer ID**: `z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz
-z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz`
+- **Peer ID**: `z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz`
 - **Public Gateway Base**: `https://app.radicle.xyz/nodes/ash.radicle.garden`
 
 ---
